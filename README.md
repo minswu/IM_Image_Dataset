@@ -27,3 +27,4 @@ This repository contains an image dataset for 16 Instant Messaging applications 
 - Each image is generated using the editing features and quality options provided by each IM application.
 - The images are organized in folders corresponding to each IM application.
 - The image filenames follow the format: {OS}\_{QualityOption}\_{EditingFlag}.jpg
+- The 'Dataset.csv' file contains the extracted features from the dataset.
