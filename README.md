@@ -43,4 +43,4 @@ Using the Single Share Dataset, 20 images each were re-shared to each 20 IM appl
 - Total number of images: 16,000
 - Each image is generated using the default quality options provided by each IM application and is created without additional editing.
 - The images are organized in the corresponding folder for each IM application and are in the form: {OS}\\{First Shared IM}-{Last Shared IM}
-- The image filenames follow the format: {OS}\_{QualityOption}\_{EditingFlag}.jpg
+- The image filenames follow the format: {First Shared OS}-{Last Shared OS}\_{QualityOption}\_{EditingFlag}.jpg
